@@ -1,0 +1,15 @@
+Assignment Statements:
+A = [64, 25, 12, 22, 11]
+min_idx = i
+min_idx = j
+(A[i], A[min_idx]) = (A[min_idx], A[i])
+
+
+Branch Conditions:
+A[min_idx] > A[j]
+
+
+Loop Conditions:
+i in range(len(A))
+j in range(i + 1, len(A))
+i in range(len(A))

@@ -1,0 +1,18 @@
+
+Assignment Statements:
+(gcd, x1, y1) = gcdExtended(b % a, a)
+x = y1 - b // a * x1
+y = x1
+(gcd, x1, y1) = gcdExtended(b % a, a)
+x = y1 - b // a * x1
+y = x1
+(a, b) = (35, 15)
+(g, x, y) = gcdExtended(a, b)
+
+
+Branch Conditions:
+a == 0
+a == 0
+
+
+Loop Conditions:

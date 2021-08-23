@@ -1,0 +1,11 @@
+Assignment Statements:
+FibArray = [0, 1]
+temp_fib = fibonacci(n - 1) + fibonacci(n - 2)
+
+
+Branch Conditions:
+n < 0
+n <= len(FibArray)
+
+
+Loop Conditions:

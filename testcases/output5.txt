@@ -1,0 +1,9 @@
+Assignment Statements:
+n = 1243
+
+
+Branch Conditions:
+isDiff(n)
+
+
+Loop Conditions:

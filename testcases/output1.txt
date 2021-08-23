@@ -1,0 +1,12 @@
+Assignment Statements:
+number1 = input(First number: )
+number2 = input(
+Second number: )
+sum = float(number1) + float(number2)
+
+
+Branch Conditions:
+
+
+
+Loop Conditions:
